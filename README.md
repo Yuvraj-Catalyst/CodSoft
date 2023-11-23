@@ -1,9 +1,9 @@
 # CodSoft
 #CodSoft Intern
 
-Taskno.1(GuessNumberGame):In this we have to guess the number
+Taskno.1(GuessNumberGame):In this task we have to guess the number in a given range.
 
-Taskno.2(StudentGradeCalculation):In this we have to calculate the grade
+Taskno.2(StudentGradeCalculation):In this we have to calculate the grade of a student by taking marks as input.
 
 Taskno.3(Atm Inteface):This is project3 of Codsoft Java Intern
 
